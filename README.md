@@ -11,9 +11,22 @@ Embedded C activities in StepIn Program
 
 ### Requirements not met
 
-| Case1             | Case2                  | Case3              | case4                |
+| Case1  |                 
 |---------------------------------------|-----------------------------------------|------------------------------------------|
-| ![case1](https://user-images.githubusercontent.com/57322769/133645212-f78104c4-b9ea-4b8e-9624-91f78b65f22d.png) | ![case2](https://user-images.githubusercontent.com/57322769/133645215-214dd3c0-8651-417a-a1f8-a2f83772e531.png)| ![case3](https://user-images.githubusercontent.com/57322769/133645219-ab46ce8b-79e7-469a-bc36-6d5f713aeb40.png) |![case4](https://user-images.githubusercontent.com/57322769/133645220-76e9c3ea-f97c-446f-8529-a4bd68d911ea.png) |
+| ![case1](https://user-images.githubusercontent.com/57322769/133645212-f78104c4-b9ea-4b8e-9624-91f78b65f22d.png) 
+
+|Case2|
+|---------------------------------------|-----------------------------------------|------------------------------------------|
+![case2](https://user-images.githubusercontent.com/57322769/133645215-214dd3c0-8651-417a-a1f8-a2f83772e531.png)
+
+|Case3|
+|---------------------------------------|-----------------------------------------|------------------------------------------|
+![case3](https://user-images.githubusercontent.com/57322769/133645219-ab46ce8b-79e7-469a-bc36-6d5f713aeb40.png) 
+
+|Case4|
+
+|---------------------------------------|-----------------------------------------|------------------------------------------|
+![case4](https://user-images.githubusercontent.com/57322769/133645220-76e9c3ea-f97c-446f-8529-a4bd68d911ea.png) 
 
 ### Both Switches ON
 
