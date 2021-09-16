@@ -19,7 +19,7 @@ Case2: When Seat Switch is on and Heater Switch is OFF
 
 Case 3: When Seat switch is OFF and Heater Switch is ON
 
-![case3](https://user-images.githubusercontent.com/57322769/133645219-ab46ce8b-79e7-469a-bc36-6d5f713aeb40.png) 
+![case3](https://user-images.githubusercontent.com/57322769/133652006-160f6547-dda1-49af-816e-1065d5fb4f5f.png)
 
 Case4: When both the switches are ON
 
