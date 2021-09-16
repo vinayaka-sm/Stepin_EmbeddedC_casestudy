@@ -11,7 +11,7 @@
 
 ## Output
 
-### Requirements not met
+### When Requirements not met
 
  Case1: When both the Seat Switch and HeaterSwitch turned off                  
 
