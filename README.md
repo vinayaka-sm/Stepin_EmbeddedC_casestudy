@@ -11,21 +11,20 @@ Embedded C activities in StepIn Program
 
 ### Requirements not met
 
-| Case1  |                 
-|---------------------------------------|-----------------------------------------|------------------------------------------|
+ Case1: When both the Seat Switch and HeaterSwitch turned off                  
+
 | ![case1](https://user-images.githubusercontent.com/57322769/133645212-f78104c4-b9ea-4b8e-9624-91f78b65f22d.png) 
 
-|Case2|
-|---------------------------------------|-----------------------------------------|------------------------------------------|
+Case2: When Seat Switch is on and Heater Switch is OFF
+
 ![case2](https://user-images.githubusercontent.com/57322769/133645215-214dd3c0-8651-417a-a1f8-a2f83772e531.png)
 
-|Case3|
-|---------------------------------------|-----------------------------------------|------------------------------------------|
+Case 3: When Seat switch is OFF and Heater Switch is ON
+
 ![case3](https://user-images.githubusercontent.com/57322769/133645219-ab46ce8b-79e7-469a-bc36-6d5f713aeb40.png) 
 
-|Case4|
+Case4: When both the switches are ON
 
-|---------------------------------------|-----------------------------------------|------------------------------------------|
 ![case4](https://user-images.githubusercontent.com/57322769/133645220-76e9c3ea-f97c-446f-8529-a4bd68d911ea.png) 
 
 ### Both Switches ON
