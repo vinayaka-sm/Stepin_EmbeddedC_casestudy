@@ -13,7 +13,7 @@ Embedded C activities in StepIn Program
 
  Case1: When both the Seat Switch and HeaterSwitch turned off                  
 
-| ![case1](https://user-images.githubusercontent.com/57322769/133645212-f78104c4-b9ea-4b8e-9624-91f78b65f22d.png) 
+![case1](https://user-images.githubusercontent.com/57322769/133645212-f78104c4-b9ea-4b8e-9624-91f78b65f22d.png) 
 
 Case2: When Seat Switch is on and Heater Switch is OFF
 
