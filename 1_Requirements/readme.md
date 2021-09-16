@@ -28,7 +28,7 @@ In our project, the sensor will sense is the driver has been seated or not and i
 
 ## 4W's and 1'H
 ### **WHAT** : Vehicle seat heating system
-### **WHERE** : Used in Automotive
+### **WHERE** : Used in Automotives
 ### **WHEN** : At low Temperatures
 
 ## Detail requirements
@@ -47,7 +47,6 @@ In our project, the sensor will sense is the driver has been seated or not and i
 | HLR1_LLR1    | ATmega328     |
 | HLR2_LLR1   | LM35 and ADC|
 | HLR2_LLR2   | ADC with PWM|
-| HLR3_LLR1   | Thermoelectric module|
 | HLR4_LLR1   |LCD and LED|
 | HLR5_LLR1   | Code Blocks with AVR GCC compiler |
 | HLR5_LLR2   | SimulIDE |
